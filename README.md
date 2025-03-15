@@ -3,8 +3,8 @@
 
 ## 🦋 A Few Quick Facts
 
-- 🫶 Hi there! I'm Hideki.
-- 💜 **Freelance Solution Architect:** With two decades of experience in Japan's tech landscape, I specialize in designing and implementing robust, scalable solutions.
+- 🫶 Hi there! I'm Hideki. One of **the first AWS IQ Experts in Japan**!
+- 💜 A **Freelance Cloud-Native Solution Architect:** With two decades of experience in Japan's tech landscape, I specialize in designing and implementing robust, scalable solutions.
 - 🧣 **Instructor on Udemy:** I share my knowledge and expertise through detailed courses on Udemy, helping others to learn and grow in the tech field.
 - 🌃 Also, A **Cloud Native & AWS Serverless believer**. (WinkWink)
 
